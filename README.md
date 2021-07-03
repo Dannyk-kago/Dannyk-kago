@@ -9,6 +9,7 @@
 [![Top Langs align="right"](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyk-kago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![](https://img.shields.io/badge/<>-<Android Studio>-informational?style=flat&logo=<androidstudio>&logoColor=white&color=2bbc8a)
 
 
 
