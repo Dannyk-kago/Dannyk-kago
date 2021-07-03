@@ -1,4 +1,4 @@
-## Hi, Am Daniel Android Developer
+## Hi, :seedling: Am Daniel Android Developer
 
 ## ABOUT ME
 - Android Engineer
