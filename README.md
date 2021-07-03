@@ -1,2 +1,2 @@
-https://kimaridaniel.netlify.app
+git clone https://kimaridaniel.netlify.app
 
