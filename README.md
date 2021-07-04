@@ -17,6 +17,5 @@
 
 
 ![github](https://img.shields.io/github/followers/Dannyk-kago?style=plastic)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
