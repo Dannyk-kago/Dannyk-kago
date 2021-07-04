@@ -5,12 +5,18 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannyk-kago&show_icons=true&theme=radical)
 
-
-[![Top Langs align="right"](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyk-kago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<!-----contribution graph---------->
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Dannyk-kago&theme=xcode" />
 
 
 
+
+[![Top Langs"](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyk-kago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+![github](https://img.shields.io/github/followers/Dannyk-kago?style=plastic)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
