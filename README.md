@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannyk-kago&show_icons=true&theme=radical)
 
 <!-----contribution graph---------->
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Dannyk-kago&theme=xcode" />
+<!--<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Dannyk-kago&theme=xcode" />--->
 
 
 
