@@ -1,7 +1,7 @@
 ## :zap: Hi, :wave: I'am Daniel Software Engineer
 
 ## ABOUT ME
--:iphone: Software Engineer
+-:iphone: Android Engineer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannyk-kago&show_icons=true&theme=radical)
 
