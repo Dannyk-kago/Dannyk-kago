@@ -1,4 +1,4 @@
-### Hi there👋! I'm Daniel 🙋‍♂️ #
+<!--### Hi there👋! I'm Daniel 🙋‍♂️ #
 
 ### A Passionate Android Developer
 
@@ -24,14 +24,15 @@
 
 [![Top Langs"](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyk-kago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
- ![github](https://img.shields.io/github/followers/Dannyk-kago?style=plastic)
+ ![github](https://img.shields.io/github/followers/Dannyk-kago?style=plastic) --->
                
                
 <!-----contribution graph---------->
 <!--<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Dannyk-kago&theme=xcode" />--->
 
 
-
+<img height="350" src="https://user-images.githubusercontent.com/101717447/161377909-e2f086a3-7c35-49de-a7f3-a39c0008aa6b.jpg"/>
+<h3><a href= "https://kimaridaniel.netlify.app"> View Portfolio >  <a/></h3>
 
 
 
